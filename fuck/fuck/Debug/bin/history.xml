@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="4.7.3 -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wall -g -Map=fuck.map -O0 --gc-sections -lm -lgcc -lc -LC:\CooCox\CoIDE\configuration\ProgramData\fuck -TC:\CooCox\CoIDE\configuration\ProgramData\fuck/arm-gcc-link.ld -g">
+      <target file="fuck.elf" lastModified="149adf48587">
+         <source file="..\obj\HyperTerminal.o" lastModified="149adf237e6"/>
+         <source file="..\obj\RTC_LSI.o" lastModified="149adf23869"/>
+         <source file="..\obj\tm_stm32f4_hd44780.o" lastModified="149adf238f4"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="149adf239e5"/>
+         <source file="..\obj\stm32f4xx_pwr.o" lastModified="149adf23a5e"/>
+         <source file="..\obj\stm32f4xx_dac.o" lastModified="149adf23ae7"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="149adf23b37"/>
+         <source file="..\obj\main.o" lastModified="149adf482bb"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="149adf23ce4"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="149adf23d92"/>
+         <source file="..\obj\tm_stm32f4_delay.o" lastModified="149adf23e12"/>
+         <source file="..\obj\gpio.o" lastModified="149adf23e79"/>
+         <source file="..\obj\dacinit.o" lastModified="149adf23f4c"/>
+         <source file="..\obj\tm_stm32f4_i2c.o" lastModified="149adf23ff6"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="149adf2407c"/>
+         <source file="..\obj\stm32f4xx_flash.o" lastModified="149adf24113"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="149adf24191"/>
+         <source file="..\obj\syscalls.o" lastModified="149adf24225"/>
+         <source file="..\obj\stm32f4xx_dma.o" lastModified="149adf242b1"/>
+         <source file="..\obj\tm_stm32f4_ds1307.o" lastModified="149adf24345"/>
+         <source file="..\obj\itoa.o" lastModified="149adf24390"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="149adf2443b"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="149adf244ac"/>
+         <source file="..\obj\misc.o" lastModified="149adf24520"/>
+         <source file="..\obj\mkterm.o" lastModified="149adf245a2"/>
+         <source file="..\obj\stm32f4xx_rtc.o" lastModified="149adf24690"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="149adf247a3"/>
+      </target>
+   </processor>
+</history>

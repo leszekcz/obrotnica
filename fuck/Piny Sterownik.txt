@@ -1,0 +1,25 @@
+PC10 RSRX
+PC11 RSTX
+PD10 RSEN
+
+PA0 ADC1
+PA1 ADC2
+PA2 ADC3
+PA3 ADC4
+
+PA4 DAC1
+PA5 DAC2
+
+PD0 Pompa kolektora ON
+PD1 Pompa wymiennika ON	
+PD2 Imp Reg pompy kolektora
+PD3
+PD4
+PD5
+PD6 Obieg krótki
+PD7 Obieg d³ugi
+PD11 Pompa biegi
+PD12
+PD13
+PD14
+PD15
